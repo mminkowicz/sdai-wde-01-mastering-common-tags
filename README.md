@@ -27,7 +27,3 @@ In this lab, we will create the basic structure of an HTML document for a musici
 
 ---
 
-### Solution codebase 👀
-🛑 **Only use this as a reference** 🛑
-
-💾 **Not something to copy and paste** 💾
