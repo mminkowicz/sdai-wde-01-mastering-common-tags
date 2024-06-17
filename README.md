@@ -20,8 +20,9 @@ In this lab, we will create the basic structure of an HTML document for a musici
 2. [ ] In line 1, type an exclamation point, wait to see the prompt, then hit `enter`.
 3. [ ] When you have your boilerplate code, in the `head` element, locate the `title` element and enter `Melody Sky`.
 4. [ ] Inside the `body` tag, create a header with the text: `Welcome to Melody Sky's Official Website`.
-5. [ ] Add a paragraph with the text: `Explore the music, videos, and latest updates from Melody Sky.`
-6. [ ] Create a navbar using an unordered list with links to `Home`, `Music`, and `Tour`.
+5. [ ] Create a navbar using an unordered list with links to `Home`, `Music`, and `Tour`.
+6. [ ] Add a paragraph with the text: `Explore the music, videos, and latest updates from Melody Sky.`
+
 
 🎊 **Great job! You've completed the basic structure for Melody Sky's website.** 🎊
 
@@ -31,3 +32,5 @@ In this lab, we will create the basic structure of an HTML document for a musici
 🛑 **Only use this as a reference** 🛑
 
 💾 **Not something to copy and paste** 💾
+
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-wde-d1-melody-sky-demo/blob/solution/index.html) (link not shown).
