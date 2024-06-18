@@ -1,4 +1,4 @@
-# Melody Sky - Basic HTML Structure
+# Melody Sky - Links, Images, Text, and More
 
 ## Description 📄
 In this lab, we will create the basic structure of an HTML document for a musician's website for Melody Sky. This includes adding a navigation bar using an unordered list.
