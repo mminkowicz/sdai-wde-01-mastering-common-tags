@@ -22,6 +22,8 @@ In this lab, we will create the basic structure of an HTML document for a musici
 4. [ ] Inside the `body` tag, create a header with the text: `Welcome to Melody Sky's Official Website`.
 5. [ ] Create a navbar using an unordered list with links to `Home`, `Music`, and `Tour`.
 6. [ ] Add a paragraph with the text: `Explore the music, videos, and latest updates from Melody Sky.`
+7. [ ] Create a directory called `assets` and another directory called `images` inside the newly created `assets` directory.
+8. [ ] Download a relevant image and place it in the `images` directory. Place that image on under the `<p>` tag.
 
 
 🎊 **Great job! You've completed the basic structure for Melody Sky's website.** 🎊
