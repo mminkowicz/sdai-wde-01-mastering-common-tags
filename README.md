@@ -36,3 +36,7 @@ In this lab, we will create the basic structure of an HTML document for a musici
 💾 **Not something to copy and paste** 💾
 
 **Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-wde-d1-melody-sky-demo/blob/solution/index.html) (link not shown).
+
+---
+
+© All rights reserved to ThriveDX
