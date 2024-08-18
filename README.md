@@ -29,4 +29,5 @@ In this lab, we will create the basic structure of an HTML document for a musici
 🎊 **Great job! You've completed the basic structure for Melody Sky's website.** 🎊
 
 ---
+© All rights reserved to ThriveDX
 
